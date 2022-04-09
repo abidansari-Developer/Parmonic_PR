@@ -127,3 +127,24 @@
 				return lstLedger;
 			}
 ```
+
+## Deploy microservices in azure cloud app service
+
+
+ - Code should be checkin in github repo;
+ - Project - do publish via .net;
+ - Publish file will be pull in docker container;
+ - We will do build from docker if build success then;
+ - We will create a repo in Azure cloude;
+ - Push the docker container build file in Azure repo;
+ - Then host/publish;
+
+## Roadblock, Question, Unclear
+
+- Nos of dependency not explain;
+- Data Source not clear - We don't now how data will come;
+- Ledger/Transaction entity, attributes not fully describe;
+- Authentication or secure commenication channel - not in requirement;
+- Nos of third party not explain in project.
+
+
