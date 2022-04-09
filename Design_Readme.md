@@ -1,5 +1,12 @@
 ### Design
+
+![](https://github.com/abidansari-Developer/Parmonic_PR/edit/main//MicroService-Diagram.jpg)![]
+
+
 ##_Creating basic four microservices (GET, POST, PUT & DELETE) -- via Ledger for Transaction  _
+
+
+
 
 
 ```sh
