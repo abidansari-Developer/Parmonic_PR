@@ -3,7 +3,7 @@
 ![](https://github.com/abidansari-Developer/Parmonic_PR/blob/main/MicroService-Diagram.jpg)![]
 
 
-##_Creating basic four microservices (GET, POST, PUT & DELETE) -- via Ledger for Transaction  _
+## _Creating basic four microservices (GET, POST, PUT & DELETE) -- via Ledger for Transaction_
 
 
 
@@ -25,7 +25,7 @@
 
 				return (objLedger);
 			}
-			```
+```
 			
 ```sh
 // POST - Insert Transaction 
@@ -72,7 +72,7 @@
 					return true;
 			}
 ```
-##_Creating Other microservices _
+## _Creating Other microservices_
 
 
 ```sh
